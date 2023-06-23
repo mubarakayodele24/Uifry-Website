@@ -1,0 +1,152 @@
+.first{
+	text-align: center;
+	background-color: #1e1a3d;
+	color: #fff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.strong{
+	padding-left: 5px;
+	color: #1e1a3d;
+}
+
+sup{
+	font-size: 10px;
+	color: #1e1a3d;
+}
+
+nav{
+	margin-top: 10px;
+}
+
+.nav-item{
+	padding-left: 40px;
+	color: #1e1a3d;
+}
+
+input[type=submit]{
+	background-color: #FAE0E1;
+	border: none;
+	padding: 11px 20px 11px 20px;
+	border-radius: 5px;
+	font-size: 15px;
+}
+
+h1{
+	color: #fff;
+}
+
+#main{
+	padding: 40px;
+}
+
+.arrow{
+	padding: 9px 15px 9px 15px;
+	border: 1px solid #FAE0E1;
+	background-color: #fff;
+	border-radius: 5px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.star{
+	margin-top: 25px;
+	background-color: #FAE0E1; 
+	border: none;
+	padding: 7px 9px 7px 9px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+#icons{
+	border: 1px solid #c8c8c8;
+	padding-top: 20px;
+}
+
+.sub-main{
+	padding: 13px 15px 13px 15px;
+	background-color: #FAE0E1; 
+	border: none;
+	 margin-right: 20px;
+	 border-radius: 5px;
+}
+
+#button2{
+       margin-top: 10px;
+}
+
+.contact-now{
+	background-color: #FAE0E1;
+	border: none;
+	padding: 11px 20px 9px 20px;
+	border-radius: 5px;
+	font-size: 15px;
+	margin-top: 10px;
+}
+#arrow{
+	padding-left: 12px;
+}
+
+.sub{
+	padding: 13px 15px 13px 15px;
+	background-color: #FAE0E1; 
+	border: none;
+	 border-radius: 5px;
+}
+
+.sub2{
+	padding: 13px 15px 13px 15px;
+	background-color: #F4D9A1; 
+	border: none;
+	 border-radius: 5px;
+}
+
+.sub3{
+	padding: 13px 15px 13px 15px;
+	background-color: #B3B7DD; 
+	border: none;
+	 border-radius: 5px;
+}
+
+#section6{
+	background-color: #1e1a3d;
+	color: #fff;
+	padding: 30px;
+}
+
+input[type=text]{
+	width: 350px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-top: 7px;
+	border-radius: 5px;
+	border: 1px solid #FAE0E1;
+}
+
+.contact{
+	width: 350px;
+	margin-top: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background-color: #FAE0E1;
+	border: none;
+	border-radius: 5px;
+}
+
+.section4, .section5, .section7, .section8, .section9{
+	padding: 50px;
+}
+
+#section7{
+	padding-bottom: 30px;
+}
+
+#icon{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.nav-link{
+	font-size: 20px;
+}
